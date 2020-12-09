@@ -11,3 +11,7 @@
 <p align="center">
   <a href="https://github.com/fp-coders/forum/discussions">Join the Discussions</a>
 </p>
+
+## License
+
+[GPL-3](LICENSE) @ λ FP Coders
